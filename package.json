@@ -12,9 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/howmanysmall/rodux-hooks.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["roblox", "typescript", "roblox-ts", "rodux", "roact-hooks", "roact"],
+  "author": "howmanysmall",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/howmanysmall/rodux-hooks/issues"
   },
